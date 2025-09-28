@@ -4,3 +4,13 @@ print("p AND q=",p AND q)
 print("p OR q=",p OR q)
 print("NOT p=",not p)
 print("p XOR q=",p^q)
+
+print("p =",True, ", q =",True,"=>p AND q =", True and True)
+print("p =",True, ", q =",False,"=>p AND q=", TRue and Fase)
+print("p =",False, ", q =",False,"=>p AND q=", False and Fase)
+print("p =",False, ", q =",True,"=>p AND q=", False and True)
+
+print("p=",True, ", q=",True,"=>pV~q =",True or not True)
+print("p=",True, ", q=",False,"=>pV~q =",True or not False)
+print("p=",False, ", q=",False,"=>pV~q =",False or not False)
+print("p=",False, ", q=",True,"=>pV~q =",False or not True)
