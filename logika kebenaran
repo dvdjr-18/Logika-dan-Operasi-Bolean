@@ -1,0 +1,6 @@
+p = true
+q = false
+print("p AND q=",p AND q)
+print("p OR q=",p OR q)
+print("NOT p=",not p)
+print("p XOR q=",p^q)
