@@ -1,0 +1,8 @@
+nama = input("masukan nama:")
+print("hallo",nama
+NIM =input("masukan NIM:")
+print("hallo:"NIM)
+panjang = input("masukan nilai panjang:")
+lebar = input("masukan nilai panjang:")
+luas =int(panajang)*int(lebar)
+print(luas)
